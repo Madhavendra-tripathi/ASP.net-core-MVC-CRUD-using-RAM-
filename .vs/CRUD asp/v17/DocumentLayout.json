@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\views\\user\\create22.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\views\\user\\create22.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\views\\user\\basic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\views\\user\\basic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|c:\\users\\vss\\source\\repos\\db\\crud asp\\crud asp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE21F1D9-001E-452C-8341-692A63DF0361}|CRUD asp\\CRUD asp.csproj|solutionrelative:crud asp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CRUD asp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Models\\User.cs",
+              "RelativeToolTip": "CRUD asp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:14:30.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "basic.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\User\\basic.cshtml",
+              "RelativeDocumentMoniker": "CRUD asp\\Views\\User\\basic.cshtml",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\User\\basic.cshtml",
+              "RelativeToolTip": "CRUD asp\\Views\\User\\basic.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T11:50:37.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD asp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD asp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T10:32:52.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUD asp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUD asp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:21:34.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD asp\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "CRUD asp\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T10:25:02.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD asp\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "CRUD asp\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T10:26:36.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD asp\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "CRUD asp\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T10:27:11.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD asp\\Program.cs",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Program.cs",
+              "RelativeToolTip": "CRUD asp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:17:56.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD asp\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "CRUD asp\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T10:25:59.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD asp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUD asp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T10:32:42.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CRUD asp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CRUD asp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:43:33.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create22.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\User\\Create22.cshtml",
+              "RelativeDocumentMoniker": "CRUD asp\\Views\\User\\Create22.cshtml",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\User\\Create22.cshtml",
+              "RelativeToolTip": "CRUD asp\\Views\\User\\Create22.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T12:19:19.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CRUD asp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CRUD asp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T11:25:23.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CRUD asp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CRUD asp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T11:04:34.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CRUD asp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CRUD asp\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:38:52.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CRUD asp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\appsettings.Development.json",
+              "RelativeToolTip": "CRUD asp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T12:18:08.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD asp\\appsettings.json",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\appsettings.json",
+              "RelativeToolTip": "CRUD asp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T10:29:06.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CRUD asp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CRUD asp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T11:40:34.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CRUD asp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CRUD asp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T11:40:43.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CRUD asp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CRUD asp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T11:18:57.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CRUD asp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\VSS\\source\\repos\\DB\\CRUD asp\\CRUD asp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CRUD asp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:04:31.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

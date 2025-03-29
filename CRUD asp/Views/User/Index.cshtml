@@ -1,0 +1,29 @@
+﻿@model List<CRUD_asp.Models.User>
+
+<h2>User List</h2>
+<a class="btn btn-success" href="/User/Create">Add User</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Password</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Username</td>
+                <td>@user.Email</td>
+                <td>@user.Password</td>
+                <td>
+                    <a href="/User/Edit/@user.Id">Edit</a> |
+                    <a href="/User/Delete/@user.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
